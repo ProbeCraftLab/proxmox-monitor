@@ -1,0 +1,22 @@
+# Local configuration
+config.json
+.env
+
+# Local certificates and PEM keys
+*.pem
+
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# SSH private keys
+*_ed25519
+*.key
+
+# Local development test scripts
+test_api.py
+test_ssh.py
+test_https.py

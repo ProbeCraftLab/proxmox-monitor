@@ -1,0 +1,10 @@
+{
+    "proxmox_url": "https://YOUR_PROXMOX_IP:8006",
+    "node_name": "YOUR_NODE_NAME",
+    "token_id": "YOUR_USER@pve!YOUR_TOKEN_NAME",
+    "ca_cert": "YOUR_CA_CERT_FILE.pem",
+
+    "ssh_host": "YOUR_PROXMOX_IP",
+    "ssh_user": "YOUR_SSH_USERNAME",
+    "ssh_key": "~/.ssh/YOUR_SSH_PRIVATE_KEY_FILENAME"
+}
